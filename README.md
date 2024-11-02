@@ -2,7 +2,7 @@
 
 Este é um projeto de exemplo que implementa uma aplicação web simples utilizando Go para o back-end, PostgreSQL para persistência de dados, e uma interface web simples para interagir com a aplicação. O projeto é containerizado utilizando Docker e Docker Compose, permitindo uma configuração e execução simples e consistente.
 
-## Diagrama da Arquitetur
+## Diagrama da Arquitetura
 
 Aqui está um diagrama básico para ilustrar a arquitetura do projeto:
 
